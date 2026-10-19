@@ -335,6 +335,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 }
 .portrait.has-photo .portrait__img { background: var(--ph) center / cover; }
 .portrait.has-photo .portrait__img::before, .portrait.has-photo .portrait__img::after { display: none; }
+.portrait--affiche.has-photo .portrait__img { background: var(--ph) center / contain no-repeat, #082746; } /* affiche montrée en entier */
 .portrait__img { transition: transform .8s var(--ease), box-shadow .8s var(--ease); }
 .portrait:hover .portrait__img { transform: translateY(-6px); box-shadow: 0 30px 50px -30px rgba(60,40,10,.55); }
 .portrait:hover .portrait__img::before { transform: scale(1.04); }

@@ -18,6 +18,8 @@ Déposez vos images dans le dossier `images/` avec exactement ces noms. Chacune 
 
 Déjà en place (16 octobre 2026) : `terroir-vanille.jpg` et `terroir-curcuma.jpg`, le portrait `artisan-5.jpg` (Gérome Dequelson, Maison du curcuma, premier de la galerie), et les photos des blocs « Producteur à la une » : `producteur-etal.jpg`, `producteur-vinaigres.jpg` (curcuma), `vanille-plants.jpg`, `vanille-gousses.jpg` (ProVanille).
 
+Ajouté le 19 octobre 2026 : Le panier de Cambourg (Sainte-Anne). Portrait `artisan-cambourg.jpg` (affiche entière, deuxième de la galerie, à la place de la case « Plantes & cosmétiques »), photos du bloc « Producteur à la une » : `cambourg-confitures.jpg`, `cambourg-pates.jpg`.
+
 Gardez chaque photo sous 400 Ko environ (format JPG, qualité 75 à 80) pour que le site reste rapide.
 
 Les noms des artisans se changent dans `index.html` : chercher « Portrait à venir » et « Nom et lieu à compléter ».
