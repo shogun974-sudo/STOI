@@ -20,6 +20,8 @@ Déjà en place (16 octobre 2026) : `terroir-vanille.jpg` et `terroir-curcuma.jp
 
 Ajouté le 19 octobre 2026 : Le panier de Cambourg (Sainte-Anne). Portrait `artisan-cambourg.jpg` (affiche entière, deuxième de la galerie, à la place de la case « Plantes & cosmétiques »), photos du bloc « Producteur à la une » : `cambourg-confitures.jpg`, `cambourg-pates.jpg`.
 
+Ajouté le 19 octobre 2026 : H - Majihy (Diego Suarez, Madagascar). Portrait `artisan-majihy.jpg` (Harynah Ramanantsoa, troisième de la galerie, à la place de la case « Bois & céramique »), photos du bloc « Producteur à la une » : `majihy-savons.jpg`, `majihy-cire.jpg`.
+
 Gardez chaque photo sous 400 Ko environ (format JPG, qualité 75 à 80) pour que le site reste rapide.
 
 Les noms des artisans se changent dans `index.html` : chercher « Portrait à venir » et « Nom et lieu à compléter ».
