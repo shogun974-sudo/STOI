@@ -1,0 +1,20 @@
+{
+  "name": "stoi-video",
+  "private": true,
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "render": "remotion render src/index.ts Stoi out/stoi-4x5.mp4"
+  },
+  "dependencies": {
+    "@fontsource/cinzel": "^5.1.0",
+    "@fontsource/mulish": "^5.1.0",
+    "@fontsource/playfair-display": "^5.1.0",
+    "@remotion/cli": "^4.0.540",
+    "@remotion/google-fonts": "^4.0.540",
+    "@types/react": "^18.3.12",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "^4.0.540",
+    "typescript": "^5.6.3"
+  }
+}
