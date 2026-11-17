@@ -409,6 +409,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 .foot__in { display: grid; gap: .4rem; text-align: center; color: var(--on-dark-soft); font-size: .88rem; }
 .foot__name { font-family: var(--f-label); letter-spacing: .2em; text-transform: uppercase; color: var(--gold-hi); }
 .foot__slogan { font-family: var(--f-display); font-style: italic; color: var(--cream); }
+.foot__legal { margin-top: .6rem; font-size: .74rem; letter-spacing: .04em; opacity: .75; }
 
 /* ---------- Apparitions au défilement ---------- */
 .js .reveal.is-pending { opacity: 0; transform: translateY(34px); }
